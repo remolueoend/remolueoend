@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+ - 🏫 back at @ETHZurich to get my CS degree
+ - 🥰 typescript fan and node/react veteran
+ - 🔥 messing around with ocaml and rust
+ - 📖 vernor vinge - a deepness in the sky
+ - 🌱 a keyboard layout configurator for linux, stay tuned!
+
 <!--
 **remolueoend/remolueoend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
