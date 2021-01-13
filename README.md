@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- - 🏫 back at @ETHZurich to get my CS degree
+ - 🏫 back at ETH Zurich to get my CS degree
  - 🥰 typescript fan and node/react veteran
  - 🔥 messing around with ocaml and rust
  - 📖 vernor vinge - a deepness in the sky
