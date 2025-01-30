@@ -1,7 +1,7 @@
 ### Hi there 👋
 
- - 🏫 back at ETH Zurich to get my CS degree
- - 🥰 typescript fan and node/react veteran
+ - 🏫 tinkering in the crypto / digital art space
+ - 🥰 type systems connoisseur
  - 🔥 messing around with ocaml and rust
  - 📖 vernor vinge - a deepness in the sky
  - 🌱 a keyboard layout configurator for linux, stay tuned!
